@@ -27,7 +27,7 @@
   // });
 </script>
 
-<div class="flex flex-col justify-center">
+<div class="flex flex-col justify-center bg-[#1e1e1e]">
 
   <div class=" flex flex-row m-auto bg-white w-2/3 rounded-3xl py-2 px-4">
     <input
